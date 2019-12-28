@@ -17,7 +17,7 @@ namespace OvBot.Settings
 
         private Settings()
         {
-            BotToken = "NjU5Njg0MTkyOTg4MTY4MTk2.XgR7MQ.fiavP6I0_ZPZCqlMNAP5jytG6_Q";
+            BotToken = "";
             Prefix = "!";
         }
 
